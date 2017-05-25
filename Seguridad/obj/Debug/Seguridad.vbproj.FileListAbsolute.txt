@@ -1,0 +1,9 @@
+C:\Users\Esteban\Documents\Visual Studio 2015\Projects\SGISI\Seguridad\bin\Debug\Seguridad.dll
+C:\Users\Esteban\Documents\Visual Studio 2015\Projects\SGISI\Seguridad\bin\Debug\Seguridad.pdb
+C:\Users\Esteban\Documents\Visual Studio 2015\Projects\SGISI\Seguridad\bin\Debug\Seguridad.xml
+C:\Users\Esteban\Documents\Visual Studio 2015\Projects\SGISI\Seguridad\obj\Debug\Seguridad.vbprojResolveAssemblyReference.cache
+C:\Users\Esteban\Documents\Visual Studio 2015\Projects\SGISI\Seguridad\obj\Debug\Seguridad.Resources.resources
+C:\Users\Esteban\Documents\Visual Studio 2015\Projects\SGISI\Seguridad\obj\Debug\Seguridad.vbproj.GenerateResource.Cache
+C:\Users\Esteban\Documents\Visual Studio 2015\Projects\SGISI\Seguridad\obj\Debug\Seguridad.dll
+C:\Users\Esteban\Documents\Visual Studio 2015\Projects\SGISI\Seguridad\obj\Debug\Seguridad.xml
+C:\Users\Esteban\Documents\Visual Studio 2015\Projects\SGISI\Seguridad\obj\Debug\Seguridad.pdb

@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="GUI.Alertador" Collapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAAgAAAAAAAAAAAAABAQAAAAAAAA=</HashCode>
+      <FileName>Alertador.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GUI.BotoneraFiltrador" Collapsed="true">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACgAGACAAAAAQCAAQACAACAAAAAAAIAggAAAAA=</HashCode>
+      <FileName>BotoneraFiltrador.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GUI.CPatente">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAAAAAAAAAAAAAACgAAAAAgAAAAA=</HashCode>
+      <FileName>Composite\CPatente.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GUI.CPatenteMultiple">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>Composite\CPatenteMultiple.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GUI.CPatenteSimple">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Composite\CPatenteSimple.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GUI.FormLogin" Collapsed="true">
+    <Position X="10.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIQQAQCAAAAAAQACAEAAiAAAAAgAACACBBAAAAAA=</HashCode>
+      <FileName>FormLogin.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GUI.FormMain" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="5.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAABBgIDAwACAAAACACBACABEBCCgIgAAAAIEBACE=</HashCode>
+      <FileName>FormMain.vb</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="GUI.FormEventosBitacora" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABCAAACCAAAAABgCCAEABCBAAEAAgIAAAAAoCAAAA=</HashCode>
+      <FileName>Negocio\Bitacora\FormEventosBitacora.vb</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="GUI.FormFamilia" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="10.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAICIABAACABEAAAAACAGABCAAAEAAgIAAAAACAEQAA=</HashCode>
+      <FileName>Negocio\Familia\FormFamilia.vb</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="GUI.FormFamilias" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="5.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQBSAAQACQAAAAAACCAEAACAAAEAAAIAAEBAAAQAgA=</HashCode>
+      <FileName>Negocio\Familia\FormFamilias.vb</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="GUI.FormIdioma" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAACIABAACAhEAAAAACAGABGAAAEAAgIAAAAAAAAQAA=</HashCode>
+      <FileName>Negocio\Idioma\FormIdioma.vb</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="GUI.FormIdiomas" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="8.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQBSAAQACQAAAAAACCAEAACAAAEAAAIAAEBAAAQAgA=</HashCode>
+      <FileName>Negocio\Idioma\FormIdiomas.vb</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="GUI.FormUsuario" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACIABACCAJEAAAQAGKigBCIAAEAAgIAAAAIAEAQEA=</HashCode>
+      <FileName>Negocio\Usuario\FormUsuario.vb</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="GUI.FormUsuarios" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="8.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQBSAAwAGQCAAAAACCAEQACAAAEAAAIAAEBggAQAgA=</HashCode>
+      <FileName>Negocio\Usuario\FormUsuarios.vb</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="GUI.IdiomaObservado" Collapsed="true">
+    <Position X="10.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAABAAAAAACAAAAAAAAAAAAAEAAAABACAAAAAAAA=</HashCode>
+      <FileName>Observer\IdiomaObservado.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GUI.ServicioTraduccion" Collapsed="true">
+    <Position X="8.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Observer\ServicioTraduccion.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="GUI.InterfaceObservador" Collapsed="true">
+    <Position X="5.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Observer\InterfaceObservador.vb</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Module Name="GUI.My.Resources.Resources" Collapsed="true">
+    <Position X="7" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAICAQAASQAAAAAAAAhEAkRAUAAAAAEACQEAMAQAIA=</HashCode>
+    </TypeIdentifier>
+  </Module>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

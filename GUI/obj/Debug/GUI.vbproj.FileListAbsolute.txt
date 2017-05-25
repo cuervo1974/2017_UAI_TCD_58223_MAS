@@ -1,0 +1,78 @@
+c:\users\esteban\documents\visual studio 2015\Projects\TP_TC\GUI\bin\Debug\GUI.exe.config
+C:\Users\Esteban\Documents\Visual Studio 2015\Projects\SGISI\GUI\bin\Debug\GUI.exe.config
+C:\Users\Esteban\Documents\Visual Studio 2015\Projects\SGISI\GUI\obj\Debug\GUI.vbprojResolveAssemblyReference.cache
+C:\Users\Esteban\Documents\Visual Studio 2015\Projects\SGISI\GUI\obj\Debug\GUI.FormLogin.resources
+C:\Users\Esteban\Documents\Visual Studio 2015\Projects\SGISI\GUI\obj\Debug\GUI.Resources.resources
+C:\Users\Esteban\Documents\Visual Studio 2015\Projects\SGISI\GUI\obj\Debug\GUI.vbproj.GenerateResource.Cache
+C:\Users\Esteban\Documents\Visual Studio 2015\Projects\SGISI\GUI\obj\Debug\GUI.BotoneraFiltrador.resources
+C:\Users\Esteban\Documents\Visual Studio 2015\Projects\SGISI\GUI\obj\Debug\GUI.FormMain.resources
+C:\Users\Esteban\Documents\Visual Studio 2015\Projects\SGISI\GUI\obj\Debug\GUI.FormEventosBitacora.resources
+C:\Users\Esteban\Documents\Visual Studio 2015\Projects\SGISI\GUI\obj\Debug\GUI.FormUsuario.resources
+C:\Users\Esteban\Documents\Visual Studio 2015\Projects\SGISI\GUI\obj\Debug\GUI.FormUsuarios.resources
+C:\Users\Esteban\Documents\Visual Studio 2015\Projects\SGISI\GUI\obj\Debug\GUI.xml
+C:\Users\Esteban\Documents\Visual Studio 2015\Projects\SGISI\GUI\bin\Debug\BotoneraFiltrador.resx
+C:\Users\Esteban\Documents\Visual Studio 2015\Projects\SGISI\GUI\bin\Debug\BotoneraFiltrador.Designer.vb
+C:\Users\Esteban\Documents\Visual Studio 2015\Projects\SGISI\GUI\bin\Debug\BotoneraFiltrador.vb
+C:\Users\Esteban\Documents\Visual Studio 2015\Projects\SGISI\GUI\bin\Debug\GUI.exe
+C:\Users\Esteban\Documents\Visual Studio 2015\Projects\SGISI\GUI\bin\Debug\GUI.pdb
+C:\Users\Esteban\Documents\Visual Studio 2015\Projects\SGISI\GUI\bin\Debug\GUI.xml
+C:\Users\Esteban\Documents\Visual Studio 2015\Projects\SGISI\GUI\bin\Debug\BE.dll
+C:\Users\Esteban\Documents\Visual Studio 2015\Projects\SGISI\GUI\bin\Debug\BLL.dll
+C:\Users\Esteban\Documents\Visual Studio 2015\Projects\SGISI\GUI\bin\Debug\DAL.dll
+C:\Users\Esteban\Documents\Visual Studio 2015\Projects\SGISI\GUI\bin\Debug\Seguridad.dll
+C:\Users\Esteban\Documents\Visual Studio 2015\Projects\SGISI\GUI\bin\Debug\Servicios DAL.dll
+C:\Users\Esteban\Documents\Visual Studio 2015\Projects\SGISI\GUI\bin\Debug\BE.pdb
+C:\Users\Esteban\Documents\Visual Studio 2015\Projects\SGISI\GUI\bin\Debug\BE.xml
+C:\Users\Esteban\Documents\Visual Studio 2015\Projects\SGISI\GUI\bin\Debug\BLL.pdb
+C:\Users\Esteban\Documents\Visual Studio 2015\Projects\SGISI\GUI\bin\Debug\BLL.xml
+C:\Users\Esteban\Documents\Visual Studio 2015\Projects\SGISI\GUI\bin\Debug\DAL.pdb
+C:\Users\Esteban\Documents\Visual Studio 2015\Projects\SGISI\GUI\bin\Debug\DAL.xml
+C:\Users\Esteban\Documents\Visual Studio 2015\Projects\SGISI\GUI\bin\Debug\Seguridad.pdb
+C:\Users\Esteban\Documents\Visual Studio 2015\Projects\SGISI\GUI\bin\Debug\Seguridad.xml
+C:\Users\Esteban\Documents\Visual Studio 2015\Projects\SGISI\GUI\bin\Debug\Servicios DAL.pdb
+C:\Users\Esteban\Documents\Visual Studio 2015\Projects\SGISI\GUI\bin\Debug\Servicios DAL.xml
+C:\Users\Esteban\Documents\Visual Studio 2015\Projects\SGISI\GUI\obj\Debug\GUI.exe
+C:\Users\Esteban\Documents\Visual Studio 2015\Projects\SGISI\GUI\obj\Debug\GUI.pdb
+C:\Users\Esteban\Documents\Visual Studio 2015\Projects\SGISI\GUI\obj\Debug\GUI.FormFamilia.resources
+C:\Users\Esteban\Documents\Visual Studio 2015\Projects\SGISI\GUI\obj\Debug\GUI.FormFamilias.resources
+C:\Users\Esteban\Documents\Visual Studio 2015\Projects\SGISI\GUI\obj\Debug\GUI.FormIdioma.resources
+C:\Users\Esteban\Documents\Visual Studio 2015\Projects\SGISI\GUI\obj\Debug\GUI.FormIdiomas.resources
+C:\Users\Esteban\Documents\GitHub\2017_UAI_TCD_58223_MAS\GUI\bin\Debug\GUI.exe.config
+C:\Users\Esteban\Documents\GitHub\2017_UAI_TCD_58223_MAS\GUI\obj\Debug\GUI.exe
+C:\Users\Esteban\Documents\GitHub\2017_UAI_TCD_58223_MAS\GUI\obj\Debug\GUI.xml
+C:\Users\Esteban\Documents\GitHub\2017_UAI_TCD_58223_MAS\GUI\obj\Debug\GUI.pdb
+C:\Users\Esteban\Documents\GitHub\2017_UAI_TCD_58223_MAS\GUI\bin\Debug\Scripts\script_SGISI.sql
+C:\Users\Esteban\Documents\GitHub\2017_UAI_TCD_58223_MAS\GUI\bin\Debug\BotoneraFiltrador.resx
+C:\Users\Esteban\Documents\GitHub\2017_UAI_TCD_58223_MAS\GUI\bin\Debug\BotoneraFiltrador.Designer.vb
+C:\Users\Esteban\Documents\GitHub\2017_UAI_TCD_58223_MAS\GUI\bin\Debug\BotoneraFiltrador.vb
+C:\Users\Esteban\Documents\GitHub\2017_UAI_TCD_58223_MAS\GUI\bin\Debug\GUI.exe
+C:\Users\Esteban\Documents\GitHub\2017_UAI_TCD_58223_MAS\GUI\bin\Debug\GUI.pdb
+C:\Users\Esteban\Documents\GitHub\2017_UAI_TCD_58223_MAS\GUI\bin\Debug\GUI.xml
+C:\Users\Esteban\Documents\GitHub\2017_UAI_TCD_58223_MAS\GUI\bin\Debug\BE.dll
+C:\Users\Esteban\Documents\GitHub\2017_UAI_TCD_58223_MAS\GUI\bin\Debug\BLL.dll
+C:\Users\Esteban\Documents\GitHub\2017_UAI_TCD_58223_MAS\GUI\bin\Debug\DAL.dll
+C:\Users\Esteban\Documents\GitHub\2017_UAI_TCD_58223_MAS\GUI\bin\Debug\Seguridad.dll
+C:\Users\Esteban\Documents\GitHub\2017_UAI_TCD_58223_MAS\GUI\bin\Debug\Servicios DAL.dll
+C:\Users\Esteban\Documents\GitHub\2017_UAI_TCD_58223_MAS\GUI\bin\Debug\BE.pdb
+C:\Users\Esteban\Documents\GitHub\2017_UAI_TCD_58223_MAS\GUI\bin\Debug\BE.xml
+C:\Users\Esteban\Documents\GitHub\2017_UAI_TCD_58223_MAS\GUI\bin\Debug\BLL.pdb
+C:\Users\Esteban\Documents\GitHub\2017_UAI_TCD_58223_MAS\GUI\bin\Debug\BLL.xml
+C:\Users\Esteban\Documents\GitHub\2017_UAI_TCD_58223_MAS\GUI\bin\Debug\DAL.pdb
+C:\Users\Esteban\Documents\GitHub\2017_UAI_TCD_58223_MAS\GUI\bin\Debug\DAL.xml
+C:\Users\Esteban\Documents\GitHub\2017_UAI_TCD_58223_MAS\GUI\bin\Debug\Seguridad.pdb
+C:\Users\Esteban\Documents\GitHub\2017_UAI_TCD_58223_MAS\GUI\bin\Debug\Seguridad.xml
+C:\Users\Esteban\Documents\GitHub\2017_UAI_TCD_58223_MAS\GUI\bin\Debug\Servicios DAL.pdb
+C:\Users\Esteban\Documents\GitHub\2017_UAI_TCD_58223_MAS\GUI\bin\Debug\Servicios DAL.xml
+C:\Users\Esteban\Documents\GitHub\2017_UAI_TCD_58223_MAS\GUI\obj\Debug\GUI.vbprojResolveAssemblyReference.cache
+C:\Users\Esteban\Documents\GitHub\2017_UAI_TCD_58223_MAS\GUI\obj\Debug\GUI.BotoneraFiltrador.resources
+C:\Users\Esteban\Documents\GitHub\2017_UAI_TCD_58223_MAS\GUI\obj\Debug\GUI.FormLogin.resources
+C:\Users\Esteban\Documents\GitHub\2017_UAI_TCD_58223_MAS\GUI\obj\Debug\GUI.FormMain.resources
+C:\Users\Esteban\Documents\GitHub\2017_UAI_TCD_58223_MAS\GUI\obj\Debug\GUI.Resources.resources
+C:\Users\Esteban\Documents\GitHub\2017_UAI_TCD_58223_MAS\GUI\obj\Debug\GUI.FormEventosBitacora.resources
+C:\Users\Esteban\Documents\GitHub\2017_UAI_TCD_58223_MAS\GUI\obj\Debug\GUI.FormFamilia.resources
+C:\Users\Esteban\Documents\GitHub\2017_UAI_TCD_58223_MAS\GUI\obj\Debug\GUI.FormFamilias.resources
+C:\Users\Esteban\Documents\GitHub\2017_UAI_TCD_58223_MAS\GUI\obj\Debug\GUI.FormIdioma.resources
+C:\Users\Esteban\Documents\GitHub\2017_UAI_TCD_58223_MAS\GUI\obj\Debug\GUI.FormIdiomas.resources
+C:\Users\Esteban\Documents\GitHub\2017_UAI_TCD_58223_MAS\GUI\obj\Debug\GUI.FormUsuario.resources
+C:\Users\Esteban\Documents\GitHub\2017_UAI_TCD_58223_MAS\GUI\obj\Debug\GUI.FormUsuarios.resources
+C:\Users\Esteban\Documents\GitHub\2017_UAI_TCD_58223_MAS\GUI\obj\Debug\GUI.vbproj.GenerateResource.Cache
