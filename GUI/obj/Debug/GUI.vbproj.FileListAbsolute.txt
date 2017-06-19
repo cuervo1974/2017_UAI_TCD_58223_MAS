@@ -41,7 +41,6 @@ C:\Users\Esteban\Documents\GitHub\2017_UAI_TCD_58223_MAS\GUI\bin\Debug\GUI.exe.c
 C:\Users\Esteban\Documents\GitHub\2017_UAI_TCD_58223_MAS\GUI\obj\Debug\GUI.exe
 C:\Users\Esteban\Documents\GitHub\2017_UAI_TCD_58223_MAS\GUI\obj\Debug\GUI.xml
 C:\Users\Esteban\Documents\GitHub\2017_UAI_TCD_58223_MAS\GUI\obj\Debug\GUI.pdb
-C:\Users\Esteban\Documents\GitHub\2017_UAI_TCD_58223_MAS\GUI\bin\Debug\Scripts\script_SGISI.sql
 C:\Users\Esteban\Documents\GitHub\2017_UAI_TCD_58223_MAS\GUI\bin\Debug\BotoneraFiltrador.resx
 C:\Users\Esteban\Documents\GitHub\2017_UAI_TCD_58223_MAS\GUI\bin\Debug\BotoneraFiltrador.Designer.vb
 C:\Users\Esteban\Documents\GitHub\2017_UAI_TCD_58223_MAS\GUI\bin\Debug\BotoneraFiltrador.vb

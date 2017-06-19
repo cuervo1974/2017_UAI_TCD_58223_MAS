@@ -28,4 +28,7 @@
         Me.TextFiltroTexto.Text = ""
     End Sub
 
+    Private Sub ToolStrip_ItemClicked(sender As Object, e As ToolStripItemClickedEventArgs) Handles ToolStrip.ItemClicked
+
+    End Sub
 End Class

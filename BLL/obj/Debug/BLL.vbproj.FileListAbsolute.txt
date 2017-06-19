@@ -20,7 +20,6 @@ C:\Users\Esteban\Documents\Visual Studio 2015\Projects\SGISI\BLL\bin\Debug\Servi
 C:\Users\Esteban\Documents\Visual Studio 2015\Projects\SGISI\BLL\obj\Debug\BLL.dll
 C:\Users\Esteban\Documents\Visual Studio 2015\Projects\SGISI\BLL\obj\Debug\BLL.xml
 C:\Users\Esteban\Documents\Visual Studio 2015\Projects\SGISI\BLL\obj\Debug\BLL.pdb
-C:\Users\Esteban\Documents\GitHub\2017_UAI_TCD_58223_MAS\BLL\bin\Debug\Scripts\script_SGISI.sql
 C:\Users\Esteban\Documents\GitHub\2017_UAI_TCD_58223_MAS\BLL\bin\Debug\BLL.dll
 C:\Users\Esteban\Documents\GitHub\2017_UAI_TCD_58223_MAS\BLL\bin\Debug\BLL.pdb
 C:\Users\Esteban\Documents\GitHub\2017_UAI_TCD_58223_MAS\BLL\bin\Debug\BLL.xml
@@ -42,3 +41,4 @@ C:\Users\Esteban\Documents\GitHub\2017_UAI_TCD_58223_MAS\BLL\obj\Debug\BLL.vbpro
 C:\Users\Esteban\Documents\GitHub\2017_UAI_TCD_58223_MAS\BLL\obj\Debug\BLL.dll
 C:\Users\Esteban\Documents\GitHub\2017_UAI_TCD_58223_MAS\BLL\obj\Debug\BLL.xml
 C:\Users\Esteban\Documents\GitHub\2017_UAI_TCD_58223_MAS\BLL\obj\Debug\BLL.pdb
+C:\Users\Esteban\Documents\GitHub\2017_UAI_TCD_58223_MAS\BLL\bin\Debug\Scripts\script_SGISI_25052017.sql

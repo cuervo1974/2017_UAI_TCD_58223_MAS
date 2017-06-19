@@ -7,7 +7,7 @@
     Private Shared _IdiomaObservado As New IdiomaObservado
 
     Private Sub FormMain_Load(sender As Object, e As EventArgs) Handles MyBase.Load
-        Me.AgregarEmpleadoTitulo()
+        Me.AgregarUsuarioTitulo()
         Me.AgregarPatentes()
         Me.AgregarBotonSalir()
         Me.AgregarIdiomas()
@@ -18,7 +18,7 @@
         BLL.EVENTOBITACORA.RegistrarEvento("Salió")
     End Sub
 
-    Private Sub AgregarEmpleadoTitulo()
+    Private Sub AgregarUsuarioTitulo()
         Me.Text = String.Format("{0} - [{1}]", Me.Text, BE.Singleton.Instancia.USUARIO)
     End Sub
 
@@ -83,4 +83,22 @@
         _IdiomaObservado.CambiarIdioma(DirectCast(DirectCast(e.ClickedItem, ToolStripMenuItem).Tag, BE.IDIOMA))
     End Sub
 
+    Private Sub CERRARCESIONToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles CERRARCESIONToolStripMenuItem.Click
+        Me.Close()
+    End Sub
+
+    Private Sub ALTAUSUARIOToolStripMenuItem_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles ALTAUSUARIOToolStripMenuItem.Click
+        Try
+            Dim FormUsuario As New FormUsuario(BE.Singleton.Instancia.USUARIO)
+            FormUsuario.Show()
+            AddHandler FormUsuario.FormClosed, AddressOf Me.Show
+            Me.Hide()
+        Catch ex As Exception
+            Alertador.Alertar(ex.Message)
+        End Try
+    End Sub
+
+    Private Sub BAJAUSUARIOToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles BAJAUSUARIOToolStripMenuItem.Click
+
+    End Sub
 End Class

@@ -240,7 +240,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Negocio\Sector\" />
-    <Folder Include="Resources\" />
   </ItemGroup>
   <ItemGroup>
     <BootstrapperPackage Include=".NETFramework,Version=v4.6.1">
@@ -253,6 +252,29 @@
       <ProductName>.NET Framework 3.5 SP1</ProductName>
       <Install>false</Install>
     </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\Apagar.png" />
+    <Content Include="Resources\Bloquear.png" />
+    <Content Include="Resources\Calculadora.png" />
+    <Content Include="Resources\Casa.png" />
+    <Content Include="Resources\Conexiones.png" />
+    <Content Include="Resources\Configuracion.png" />
+    <Content Include="Resources\Crear.png" />
+    <Content Include="Resources\Dolar.png" />
+    <Content Include="Resources\Editar.png" />
+    <Content Include="Resources\Eliminar.png" />
+    <Content Include="Resources\Email.png" />
+    <Content Include="Resources\Hoja.png" />
+    <Content Include="Resources\Impresora.png" />
+    <Content Include="Resources\Info.png" />
+    <Content Include="Resources\Lupa.png" />
+    <Content Include="Resources\Palabra.png" />
+    <Content Include="Resources\Palabras.png" />
+    <Content Include="Resources\Persona.png" />
+    <Content Include="Resources\Personas.png" />
+    <Content Include="Resources\Posicion.png" />
+    <Content Include="Resources\Seguridad.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

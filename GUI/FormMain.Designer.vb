@@ -24,9 +24,10 @@ Partial Class FormMain
     Private Sub InitializeComponent()
         Me.MenuStrip1 = New System.Windows.Forms.MenuStrip()
         Me.USUARIOToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
-        Me.REGISTROToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
-        Me.LOGINToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.CERRARCESIONToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.ALTAUSUARIOToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.BAJAUSUARIOToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.MODIFICACIONUSUARIOToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.SOPORTEToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.ABRIRSRToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.INFORMESToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
@@ -47,28 +48,34 @@ Partial Class FormMain
         '
         'USUARIOToolStripMenuItem
         '
-        Me.USUARIOToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.REGISTROToolStripMenuItem, Me.LOGINToolStripMenuItem, Me.CERRARCESIONToolStripMenuItem})
+        Me.USUARIOToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.CERRARCESIONToolStripMenuItem, Me.ALTAUSUARIOToolStripMenuItem, Me.BAJAUSUARIOToolStripMenuItem, Me.MODIFICACIONUSUARIOToolStripMenuItem})
         Me.USUARIOToolStripMenuItem.Name = "USUARIOToolStripMenuItem"
         Me.USUARIOToolStripMenuItem.Size = New System.Drawing.Size(83, 24)
         Me.USUARIOToolStripMenuItem.Text = "USUARIO"
         '
-        'REGISTROToolStripMenuItem
-        '
-        Me.REGISTROToolStripMenuItem.Name = "REGISTROToolStripMenuItem"
-        Me.REGISTROToolStripMenuItem.Size = New System.Drawing.Size(192, 26)
-        Me.REGISTROToolStripMenuItem.Text = "REGISTRO"
-        '
-        'LOGINToolStripMenuItem
-        '
-        Me.LOGINToolStripMenuItem.Name = "LOGINToolStripMenuItem"
-        Me.LOGINToolStripMenuItem.Size = New System.Drawing.Size(192, 26)
-        Me.LOGINToolStripMenuItem.Text = "INICIAR SESION"
-        '
         'CERRARCESIONToolStripMenuItem
         '
         Me.CERRARCESIONToolStripMenuItem.Name = "CERRARCESIONToolStripMenuItem"
-        Me.CERRARCESIONToolStripMenuItem.Size = New System.Drawing.Size(192, 26)
+        Me.CERRARCESIONToolStripMenuItem.Size = New System.Drawing.Size(254, 26)
         Me.CERRARCESIONToolStripMenuItem.Text = "CERRAR SESION"
+        '
+        'ALTAUSUARIOToolStripMenuItem
+        '
+        Me.ALTAUSUARIOToolStripMenuItem.Name = "ALTAUSUARIOToolStripMenuItem"
+        Me.ALTAUSUARIOToolStripMenuItem.Size = New System.Drawing.Size(254, 26)
+        Me.ALTAUSUARIOToolStripMenuItem.Text = "ALTA USUARIO"
+        '
+        'BAJAUSUARIOToolStripMenuItem
+        '
+        Me.BAJAUSUARIOToolStripMenuItem.Name = "BAJAUSUARIOToolStripMenuItem"
+        Me.BAJAUSUARIOToolStripMenuItem.Size = New System.Drawing.Size(254, 26)
+        Me.BAJAUSUARIOToolStripMenuItem.Text = "BAJA USUARIO"
+        '
+        'MODIFICACIONUSUARIOToolStripMenuItem
+        '
+        Me.MODIFICACIONUSUARIOToolStripMenuItem.Name = "MODIFICACIONUSUARIOToolStripMenuItem"
+        Me.MODIFICACIONUSUARIOToolStripMenuItem.Size = New System.Drawing.Size(254, 26)
+        Me.MODIFICACIONUSUARIOToolStripMenuItem.Text = "MODIFICACION USUARIO"
         '
         'SOPORTEToolStripMenuItem
         '
@@ -120,12 +127,13 @@ Partial Class FormMain
 
     Friend WithEvents MenuStrip1 As MenuStrip
     Friend WithEvents USUARIOToolStripMenuItem As ToolStripMenuItem
-    Friend WithEvents REGISTROToolStripMenuItem As ToolStripMenuItem
-    Friend WithEvents LOGINToolStripMenuItem As ToolStripMenuItem
     Friend WithEvents CERRARCESIONToolStripMenuItem As ToolStripMenuItem
     Friend WithEvents SOPORTEToolStripMenuItem As ToolStripMenuItem
     Friend WithEvents ABRIRSRToolStripMenuItem As ToolStripMenuItem
     Friend WithEvents INFORMESToolStripMenuItem As ToolStripMenuItem
     Friend WithEvents TECNICOSToolStripMenuItem As ToolStripMenuItem
     Friend WithEvents ASIGNACIONTECNICOToolStripMenuItem As ToolStripMenuItem
+    Friend WithEvents ALTAUSUARIOToolStripMenuItem As ToolStripMenuItem
+    Friend WithEvents BAJAUSUARIOToolStripMenuItem As ToolStripMenuItem
+    Friend WithEvents MODIFICACIONUSUARIOToolStripMenuItem As ToolStripMenuItem
 End Class

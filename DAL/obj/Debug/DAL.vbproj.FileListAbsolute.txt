@@ -17,7 +17,6 @@ C:\Users\Esteban\Documents\Visual Studio 2015\Projects\SGISI\DAL\bin\Debug\Segur
 C:\Users\Esteban\Documents\Visual Studio 2015\Projects\SGISI\DAL\bin\Debug\Seguridad.xml
 C:\Users\Esteban\Documents\Visual Studio 2015\Projects\SGISI\DAL\bin\Debug\Servicios DAL.pdb
 C:\Users\Esteban\Documents\Visual Studio 2015\Projects\SGISI\DAL\bin\Debug\Servicios DAL.xml
-C:\Users\Esteban\Documents\GitHub\2017_UAI_TCD_58223_MAS\DAL\bin\Debug\Scripts\script_SGISI.sql
 C:\Users\Esteban\Documents\GitHub\2017_UAI_TCD_58223_MAS\DAL\bin\Debug\DAL.dll
 C:\Users\Esteban\Documents\GitHub\2017_UAI_TCD_58223_MAS\DAL\bin\Debug\DAL.pdb
 C:\Users\Esteban\Documents\GitHub\2017_UAI_TCD_58223_MAS\DAL\bin\Debug\DAL.xml
@@ -36,3 +35,4 @@ C:\Users\Esteban\Documents\GitHub\2017_UAI_TCD_58223_MAS\DAL\obj\Debug\DAL.vbpro
 C:\Users\Esteban\Documents\GitHub\2017_UAI_TCD_58223_MAS\DAL\obj\Debug\DAL.dll
 C:\Users\Esteban\Documents\GitHub\2017_UAI_TCD_58223_MAS\DAL\obj\Debug\DAL.xml
 C:\Users\Esteban\Documents\GitHub\2017_UAI_TCD_58223_MAS\DAL\obj\Debug\DAL.pdb
+C:\Users\Esteban\Documents\GitHub\2017_UAI_TCD_58223_MAS\DAL\bin\Debug\Scripts\script_SGISI_25052017.sql

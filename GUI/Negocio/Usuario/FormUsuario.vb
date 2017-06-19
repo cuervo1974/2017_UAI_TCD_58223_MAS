@@ -3,7 +3,7 @@
 
     Private _Obj As BE.USUARIO
     Private _FamiliaLogica As New BLL.FAMILIA
-    Private _SucursalLogica As New BLL.SECTOR
+    Private _SectorLogica As New BLL.SECTOR
 
     Sub New(ByRef pObj As BE.USUARIO)
         InitializeComponent()
@@ -12,8 +12,8 @@
 
     Private Sub Dialog_Load(sender As Object, e As EventArgs) Handles MyBase.Load
             Me.ComboBoxFamilia.DataSource = Me._FamiliaLogica.ConsultarTodos()
-            Me.ComboBoxSector.DataSource = Me._SucursalLogica.ConsultarTodos()
-            With Me
+        Me.ComboBoxSector.DataSource = Me._SectorLogica.ConsultarTodos()
+        With Me
                 .TextBoxNombre.Text = ._Obj.Nombre
                 .TextBoxApellido.Text = ._Obj.Apellido
                 .TextBoxUsuario.Text = ._Obj.Username
