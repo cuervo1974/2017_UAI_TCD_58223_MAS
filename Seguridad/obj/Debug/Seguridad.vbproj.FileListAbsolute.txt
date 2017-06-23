@@ -7,3 +7,12 @@ C:\Users\Esteban\Documents\Visual Studio 2015\Projects\SGISI\Seguridad\obj\Debug
 C:\Users\Esteban\Documents\Visual Studio 2015\Projects\SGISI\Seguridad\obj\Debug\Seguridad.dll
 C:\Users\Esteban\Documents\Visual Studio 2015\Projects\SGISI\Seguridad\obj\Debug\Seguridad.xml
 C:\Users\Esteban\Documents\Visual Studio 2015\Projects\SGISI\Seguridad\obj\Debug\Seguridad.pdb
+C:\Users\Esteban\Documents\GitHub\2017_UAI_TCD_58223_MAS\Seguridad\bin\Debug\Seguridad.dll
+C:\Users\Esteban\Documents\GitHub\2017_UAI_TCD_58223_MAS\Seguridad\bin\Debug\Seguridad.pdb
+C:\Users\Esteban\Documents\GitHub\2017_UAI_TCD_58223_MAS\Seguridad\bin\Debug\Seguridad.xml
+C:\Users\Esteban\Documents\GitHub\2017_UAI_TCD_58223_MAS\Seguridad\obj\Debug\Seguridad.vbprojResolveAssemblyReference.cache
+C:\Users\Esteban\Documents\GitHub\2017_UAI_TCD_58223_MAS\Seguridad\obj\Debug\Seguridad.Resources.resources
+C:\Users\Esteban\Documents\GitHub\2017_UAI_TCD_58223_MAS\Seguridad\obj\Debug\Seguridad.vbproj.GenerateResource.Cache
+C:\Users\Esteban\Documents\GitHub\2017_UAI_TCD_58223_MAS\Seguridad\obj\Debug\Seguridad.dll
+C:\Users\Esteban\Documents\GitHub\2017_UAI_TCD_58223_MAS\Seguridad\obj\Debug\Seguridad.xml
+C:\Users\Esteban\Documents\GitHub\2017_UAI_TCD_58223_MAS\Seguridad\obj\Debug\Seguridad.pdb

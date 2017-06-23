@@ -7,3 +7,12 @@ C:\Users\Esteban\Documents\Visual Studio 2015\Projects\SGISI\Servicios DAL\bin\D
 C:\Users\Esteban\Documents\Visual Studio 2015\Projects\SGISI\Servicios DAL\bin\Debug\Servicios DAL.xml
 C:\Users\Esteban\Documents\Visual Studio 2015\Projects\SGISI\Servicios DAL\obj\Debug\Servicios DAL.dll
 C:\Users\Esteban\Documents\Visual Studio 2015\Projects\SGISI\Servicios DAL\obj\Debug\Servicios DAL.pdb
+C:\Users\Esteban\Documents\GitHub\2017_UAI_TCD_58223_MAS\Servicios DAL\bin\Debug\Servicios DAL.dll
+C:\Users\Esteban\Documents\GitHub\2017_UAI_TCD_58223_MAS\Servicios DAL\bin\Debug\Servicios DAL.pdb
+C:\Users\Esteban\Documents\GitHub\2017_UAI_TCD_58223_MAS\Servicios DAL\bin\Debug\Servicios DAL.xml
+C:\Users\Esteban\Documents\GitHub\2017_UAI_TCD_58223_MAS\Servicios DAL\obj\Debug\Servicios DAL.vbprojResolveAssemblyReference.cache
+C:\Users\Esteban\Documents\GitHub\2017_UAI_TCD_58223_MAS\Servicios DAL\obj\Debug\Servicios_DAL.Resources.resources
+C:\Users\Esteban\Documents\GitHub\2017_UAI_TCD_58223_MAS\Servicios DAL\obj\Debug\Servicios DAL.vbproj.GenerateResource.Cache
+C:\Users\Esteban\Documents\GitHub\2017_UAI_TCD_58223_MAS\Servicios DAL\obj\Debug\Servicios DAL.dll
+C:\Users\Esteban\Documents\GitHub\2017_UAI_TCD_58223_MAS\Servicios DAL\obj\Debug\Servicios DAL.xml
+C:\Users\Esteban\Documents\GitHub\2017_UAI_TCD_58223_MAS\Servicios DAL\obj\Debug\Servicios DAL.pdb

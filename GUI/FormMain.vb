@@ -83,11 +83,11 @@
         _IdiomaObservado.CambiarIdioma(DirectCast(DirectCast(e.ClickedItem, ToolStripMenuItem).Tag, BE.IDIOMA))
     End Sub
 
-    Private Sub CERRARCESIONToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles CERRARCESIONToolStripMenuItem.Click
+    Private Sub CERRARCESIONToolStripMenuItem_Click(sender As Object, e As EventArgs)
         Me.Close()
     End Sub
 
-    Private Sub ALTAUSUARIOToolStripMenuItem_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles ALTAUSUARIOToolStripMenuItem.Click
+    Private Sub ALTAUSUARIOToolStripMenuItem_Click(ByVal sender As System.Object, ByVal e As System.EventArgs)
         Try
             Dim FormUsuario As New FormUsuario(BE.Singleton.Instancia.USUARIO)
             FormUsuario.Show()
@@ -98,7 +98,7 @@
         End Try
     End Sub
 
-    Private Sub BAJAUSUARIOToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles BAJAUSUARIOToolStripMenuItem.Click
+    Private Sub BAJAUSUARIOToolStripMenuItem_Click(sender As Object, e As EventArgs)
 
     End Sub
 End Class

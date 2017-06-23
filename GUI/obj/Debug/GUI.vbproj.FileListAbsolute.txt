@@ -75,3 +75,4 @@ C:\Users\Esteban\Documents\GitHub\2017_UAI_TCD_58223_MAS\GUI\obj\Debug\GUI.FormI
 C:\Users\Esteban\Documents\GitHub\2017_UAI_TCD_58223_MAS\GUI\obj\Debug\GUI.FormUsuario.resources
 C:\Users\Esteban\Documents\GitHub\2017_UAI_TCD_58223_MAS\GUI\obj\Debug\GUI.FormUsuarios.resources
 C:\Users\Esteban\Documents\GitHub\2017_UAI_TCD_58223_MAS\GUI\obj\Debug\GUI.vbproj.GenerateResource.Cache
+C:\Users\Esteban\Documents\GitHub\2017_UAI_TCD_58223_MAS\GUI\bin\Debug\Scripts\script_SGISI_25052017.sql
