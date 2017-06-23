@@ -18,7 +18,7 @@ Public Class DigitoVerificador
     Public Shared Function CalcularDV(pDataRows As DataRowCollection) As String
         Dim Sum As Integer
         For Each DR As DataRow In pDataRows
-            Sum += DR.Item("digito_verificador")
+            Sum += IIf(TypeOf (DR.Item("digito_verificador")) Is System.DBNull, 0, DR.Item("digito_verificador"))
         Next
         Return Hash.Encriptar(Sum)
     End Function
