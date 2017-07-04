@@ -37,4 +37,8 @@
         End If
     End Sub
 
+    Public Function Filtrar(pTexto As String) As List(Of BE.USUARIO)
+        Return Me._Datos.Filtrar(pTexto)
+    End Function
+
 End Class

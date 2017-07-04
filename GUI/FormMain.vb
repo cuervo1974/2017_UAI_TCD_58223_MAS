@@ -24,7 +24,7 @@
 
     Private Sub AgregarPatentes()
         CPatente.RellenarCPatentes(Me._CPatentes, Me._Familia.ConsultarPatentes(BE.Singleton.Instancia.USUARIO.FAMILIA), AddressOf AbrirForm)
-        Me._CPatentes.Mostrar(Me.MenuStrip1.Items)
+        Me._CPatentes.Mostrar(Me.MenuStrip.Items)
     End Sub
 
     Private Sub AgregarIdiomas()
@@ -40,7 +40,7 @@
             IdiomaMenuItem.DropDownItems.Add(NuevoIdioma)
         Next
         AddHandler IdiomaMenuItem.DropDownItemClicked, AddressOf Me.CambiarIdioma
-        Me.MenuStrip1.Items.Add(IdiomaMenuItem)
+        Me.MenuStrip.Items.Add(IdiomaMenuItem)
     End Sub
 
     Private Sub AgregarBotonSalir()
@@ -49,7 +49,7 @@
         SalirMenuItem.Image = My.Resources.Apagar
         SalirMenuItem.Alignment = ToolStripItemAlignment.Right
         AddHandler SalirMenuItem.Click, AddressOf Me.Salir
-        Me.MenuStrip1.Items.Add(SalirMenuItem)
+        Me.MenuStrip.Items.Add(SalirMenuItem)
     End Sub
 
     Private Sub Salir()
@@ -87,18 +87,18 @@
         Me.Close()
     End Sub
 
-    Private Sub ALTAUSUARIOToolStripMenuItem_Click(ByVal sender As System.Object, ByVal e As System.EventArgs)
-        Try
-            Dim FormUsuario As New FormUsuario(BE.Singleton.Instancia.USUARIO)
-            FormUsuario.Show()
-            AddHandler FormUsuario.FormClosed, AddressOf Me.Show
-            Me.Hide()
-        Catch ex As Exception
-            Alertador.Alertar(ex.Message)
-        End Try
-    End Sub
+    'Private Sub ALTAUSUARIOToolStripMenuItem_Click(ByVal sender As System.Object, ByVal e As System.EventArgs)
+    '    Try
+    '        Dim FormUsuario As New FormUsuario(BE.Singleton.Instancia.USUARIO)
+    '        FormUsuario.Show()
+    '        AddHandler FormUsuario.FormClosed, AddressOf Me.Show
+    '        Me.Hide()
+    '    Catch ex As Exception
+    '        Alertador.Alertar(ex.Message)
+    '    End Try
+    'End Sub
 
-    Private Sub BAJAUSUARIOToolStripMenuItem_Click(sender As Object, e As EventArgs)
+    'Private Sub BAJAUSUARIOToolStripMenuItem_Click(sender As Object, e As EventArgs)
 
-    End Sub
+    'End Sub
 End Class

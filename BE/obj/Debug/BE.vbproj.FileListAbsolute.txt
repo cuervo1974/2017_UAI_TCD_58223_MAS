@@ -7,3 +7,12 @@ C:\Users\Esteban\Documents\Visual Studio 2015\Projects\SGISI\BE\obj\Debug\BE.vbp
 C:\Users\Esteban\Documents\Visual Studio 2015\Projects\SGISI\BE\obj\Debug\BE.dll
 C:\Users\Esteban\Documents\Visual Studio 2015\Projects\SGISI\BE\obj\Debug\BE.xml
 C:\Users\Esteban\Documents\Visual Studio 2015\Projects\SGISI\BE\obj\Debug\BE.pdb
+C:\Users\Esteban\Documents\GitHub\2017_UAI_TCD_58223_MAS\BE\bin\Debug\BE.dll
+C:\Users\Esteban\Documents\GitHub\2017_UAI_TCD_58223_MAS\BE\bin\Debug\BE.pdb
+C:\Users\Esteban\Documents\GitHub\2017_UAI_TCD_58223_MAS\BE\bin\Debug\BE.xml
+C:\Users\Esteban\Documents\GitHub\2017_UAI_TCD_58223_MAS\BE\obj\Debug\BE.vbprojResolveAssemblyReference.cache
+C:\Users\Esteban\Documents\GitHub\2017_UAI_TCD_58223_MAS\BE\obj\Debug\BE.Resources.resources
+C:\Users\Esteban\Documents\GitHub\2017_UAI_TCD_58223_MAS\BE\obj\Debug\BE.vbproj.GenerateResource.Cache
+C:\Users\Esteban\Documents\GitHub\2017_UAI_TCD_58223_MAS\BE\obj\Debug\BE.dll
+C:\Users\Esteban\Documents\GitHub\2017_UAI_TCD_58223_MAS\BE\obj\Debug\BE.xml
+C:\Users\Esteban\Documents\GitHub\2017_UAI_TCD_58223_MAS\BE\obj\Debug\BE.pdb

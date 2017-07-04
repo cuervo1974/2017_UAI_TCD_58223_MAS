@@ -110,4 +110,11 @@
         End If
     End Function
 
+    Public Function Filtrar(pTexto As String) As List(Of BE.USUARIO)
+        Me.RellenarTablas()
+        Me._DataSet.Tables("Empleado").DefaultView.RowFilter = String.Format("nombre LIKE '%{0}%' OR apellido LIKE '%{1}%'", pTexto, pTexto)
+        Me.ActualizarListado()
+        Return Me._Listado
+    End Function
+
 End Class

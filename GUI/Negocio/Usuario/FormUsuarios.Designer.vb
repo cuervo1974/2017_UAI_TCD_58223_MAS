@@ -110,11 +110,11 @@ Partial Class FormUsuarios
         '
         'BotoneraFiltrador
         '
-        Me.BotoneraFiltrador.Dock = System.Windows.Forms.DockStyle.Top
-        Me.BotoneraFiltrador.Location = New System.Drawing.Point(0, 0)
-        Me.BotoneraFiltrador.Name = "BotoneraFiltrador"
-        Me.BotoneraFiltrador.Size = New System.Drawing.Size(984, 35)
-        Me.BotoneraFiltrador.TabIndex = 3
+        'Me.BotoneraFiltrador.Dock = System.Windows.Forms.DockStyle.Top
+        'Me.BotoneraFiltrador.Location = New System.Drawing.Point(0, 0)
+        'Me.BotoneraFiltrador.Name = "BotoneraFiltrador"
+        'Me.BotoneraFiltrador.Size = New System.Drawing.Size(984, 35)
+        'Me.BotoneraFiltrador.TabIndex = 3
         '
         'FormUsuarios
         '
