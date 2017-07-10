@@ -254,7 +254,7 @@ Partial Class FormUsuario
         Me.Cancel_Button.Name = "Cancel_Button"
         Me.Cancel_Button.Size = New System.Drawing.Size(89, 28)
         Me.Cancel_Button.TabIndex = 1
-        Me.Cancel_Button.Text = "Cancel"
+        Me.Cancel_Button.Text = "Cancelar"
         '
         'FormUsuario
         '

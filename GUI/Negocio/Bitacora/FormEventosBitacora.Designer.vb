@@ -59,7 +59,7 @@ Partial Class FormEventosBitacora
         Me.TableLayoutPanel.Name = "TableLayoutPanel"
         Me.TableLayoutPanel.RowCount = 1
         Me.TableLayoutPanel.RowStyles.Add(New System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 100.0!))
-        Me.TableLayoutPanel.Size = New System.Drawing.Size(1425, 37)
+        Me.TableLayoutPanel.Size = New System.Drawing.Size(1127, 37)
         Me.TableLayoutPanel.TabIndex = 10
         '
         'DateTimeHasta
@@ -125,13 +125,13 @@ Partial Class FormEventosBitacora
         Me.ComboBoxUsuario.Location = New System.Drawing.Point(648, 6)
         Me.ComboBoxUsuario.Margin = New System.Windows.Forms.Padding(7, 6, 7, 6)
         Me.ComboBoxUsuario.Name = "ComboBoxUsuario"
-        Me.ComboBoxUsuario.Size = New System.Drawing.Size(637, 24)
+        Me.ComboBoxUsuario.Size = New System.Drawing.Size(339, 24)
         Me.ComboBoxUsuario.TabIndex = 15
         '
         'ButtonFiltrar
         '
         Me.ButtonFiltrar.Dock = System.Windows.Forms.DockStyle.Fill
-        Me.ButtonFiltrar.Location = New System.Drawing.Point(1292, 0)
+        Me.ButtonFiltrar.Location = New System.Drawing.Point(994, 0)
         Me.ButtonFiltrar.Margin = New System.Windows.Forms.Padding(0)
         Me.ButtonFiltrar.Name = "ButtonFiltrar"
         Me.ButtonFiltrar.Size = New System.Drawing.Size(133, 37)
@@ -155,14 +155,14 @@ Partial Class FormEventosBitacora
         Me.DataGridPrincipal.ReadOnly = True
         Me.DataGridPrincipal.RowHeadersVisible = False
         Me.DataGridPrincipal.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect
-        Me.DataGridPrincipal.Size = New System.Drawing.Size(1425, 309)
+        Me.DataGridPrincipal.Size = New System.Drawing.Size(1127, 309)
         Me.DataGridPrincipal.TabIndex = 9
         '
         'FormEventosBitacora
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 16.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(1451, 384)
+        Me.ClientSize = New System.Drawing.Size(1153, 384)
         Me.Controls.Add(Me.TableLayoutPanel)
         Me.Controls.Add(Me.DataGridPrincipal)
         Me.Name = "FormEventosBitacora"

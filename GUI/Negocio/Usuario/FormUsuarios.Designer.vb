@@ -29,6 +29,7 @@ Partial Class FormUsuarios
         Me.TextFiltroTexto = New System.Windows.Forms.ToolStripTextBox()
         Me.ComboFiltroColumnas = New System.Windows.Forms.ToolStripComboBox()
         Me.ToolStripLabelFiltrar = New System.Windows.Forms.ToolStripLabel()
+        Me.BotoneraFiltrador = New GUI.BotoneraFiltrador()
         CType(Me.DataGridPrincipal, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.ToolStrip.SuspendLayout()
         Me.SuspendLayout()
@@ -49,7 +50,7 @@ Partial Class FormUsuarios
         Me.DataGridPrincipal.ReadOnly = True
         Me.DataGridPrincipal.RowHeadersVisible = False
         Me.DataGridPrincipal.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect
-        Me.DataGridPrincipal.Size = New System.Drawing.Size(1310, 366)
+        Me.DataGridPrincipal.Size = New System.Drawing.Size(941, 326)
         Me.DataGridPrincipal.TabIndex = 3
         '
         'ToolStrip
@@ -62,7 +63,7 @@ Partial Class FormUsuarios
         Me.ToolStrip.Name = "ToolStrip"
         Me.ToolStrip.Padding = New System.Windows.Forms.Padding(13, 6, 13, 6)
         Me.ToolStrip.RenderMode = System.Windows.Forms.ToolStripRenderMode.System
-        Me.ToolStrip.Size = New System.Drawing.Size(1314, 40)
+        Me.ToolStrip.Size = New System.Drawing.Size(945, 40)
         Me.ToolStrip.TabIndex = 4
         Me.ToolStrip.Text = "ToolStrip1"
         '
@@ -110,17 +111,17 @@ Partial Class FormUsuarios
         '
         'BotoneraFiltrador
         '
-        'Me.BotoneraFiltrador.Dock = System.Windows.Forms.DockStyle.Top
-        'Me.BotoneraFiltrador.Location = New System.Drawing.Point(0, 0)
-        'Me.BotoneraFiltrador.Name = "BotoneraFiltrador"
-        'Me.BotoneraFiltrador.Size = New System.Drawing.Size(984, 35)
-        'Me.BotoneraFiltrador.TabIndex = 3
+        Me.BotoneraFiltrador.Dock = System.Windows.Forms.DockStyle.Top
+        Me.BotoneraFiltrador.Location = New System.Drawing.Point(0, 0)
+        Me.BotoneraFiltrador.Name = "BotoneraFiltrador"
+        Me.BotoneraFiltrador.Size = New System.Drawing.Size(984, 35)
+        Me.BotoneraFiltrador.TabIndex = 3
         '
         'FormUsuarios
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 16.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(1314, 423)
+        Me.ClientSize = New System.Drawing.Size(945, 383)
         Me.Controls.Add(Me.ToolStrip)
         Me.Controls.Add(Me.DataGridPrincipal)
         Me.Name = "FormUsuarios"

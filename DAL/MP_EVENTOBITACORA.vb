@@ -13,7 +13,7 @@
         Me._DataSet.Tables("EventoBitacora").PrimaryKey = {Me._DataSet.Tables("EventoBitacora").Columns("id_evento_bitacora")}
         Servicios_DAL.Comando.RellenarDT("SELECT * FROM Usuario", Me._DataSet.Tables.Add("Usuario"))
         Me._DataSet.Tables("Usuario").PrimaryKey = {Me._DataSet.Tables("Usuario").Columns("ID_USUARIO")}
-        Me._DataSet.Relations.Add("Usuario", Me._DataSet.Tables("Usuario").Columns("ID?USUARIO"), Me._DataSet.Tables("EventoBitacora").Columns("id_usuario"))
+        Me._DataSet.Relations.Add("Usuario", Me._DataSet.Tables("Usuario").Columns("ID_USUARIO"), Me._DataSet.Tables("EventoBitacora").Columns("id_usuario"))
     End Sub
 
     Public Function ConsultarTodos() As List(Of BE.EVENTOBITACORA)

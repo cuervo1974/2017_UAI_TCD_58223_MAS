@@ -87,18 +87,4 @@
         Me.Close()
     End Sub
 
-    'Private Sub ALTAUSUARIOToolStripMenuItem_Click(ByVal sender As System.Object, ByVal e As System.EventArgs)
-    '    Try
-    '        Dim FormUsuario As New FormUsuario(BE.Singleton.Instancia.USUARIO)
-    '        FormUsuario.Show()
-    '        AddHandler FormUsuario.FormClosed, AddressOf Me.Show
-    '        Me.Hide()
-    '    Catch ex As Exception
-    '        Alertador.Alertar(ex.Message)
-    '    End Try
-    'End Sub
-
-    'Private Sub BAJAUSUARIOToolStripMenuItem_Click(sender As Object, e As EventArgs)
-
-    'End Sub
 End Class

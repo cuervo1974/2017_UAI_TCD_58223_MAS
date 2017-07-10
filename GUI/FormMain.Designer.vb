@@ -32,7 +32,7 @@ Partial Class FormMain
         Me.MenuStrip.Location = New System.Drawing.Point(0, 0)
         Me.MenuStrip.Name = "MenuStrip"
         Me.MenuStrip.Padding = New System.Windows.Forms.Padding(8, 2, 0, 2)
-        Me.MenuStrip.Size = New System.Drawing.Size(1164, 28)
+        Me.MenuStrip.Size = New System.Drawing.Size(1417, 24)
         Me.MenuStrip.TabIndex = 6
         Me.MenuStrip.Text = "MenuStrip"
         '
@@ -40,8 +40,9 @@ Partial Class FormMain
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 16.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(1164, 392)
+        Me.ClientSize = New System.Drawing.Size(1417, 556)
         Me.Controls.Add(Me.MenuStrip)
+        Me.IsMdiContainer = True
         Me.Name = "FormMain"
         Me.Text = "S.G.I.S.I."
         Me.ResumeLayout(False)
