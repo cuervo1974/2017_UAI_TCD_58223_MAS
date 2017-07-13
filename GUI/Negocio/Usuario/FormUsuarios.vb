@@ -5,12 +5,12 @@
     Private _Obj As BE.USUARIO
 
     Private Sub Form_Load(sender As Object, e As EventArgs) Handles MyBase.Load
-        'Try
-        '    '_Logica = New BLL.USUARIO
-        '    Me.RellenarDataGrid(Me._Logica.ConsultarTodos)
-        'Catch ex As Exception
-        '    Alertador.Alertar(ex.Message)
-        'End Try
+        Try
+            '    '_Logica = New BLL.USUARIO
+            Me.RellenarDataGrid(Me._Logica.ConsultarTodos)
+        Catch ex As Exception
+            Alertador.Alertar(ex.Message)
+        End Try
 
         Me.RellenarDataGrid(Me._Logica.ConsultarTodos)
 
@@ -31,17 +31,17 @@
             .AgregarBotonAgregar(AddressOf Agregar)
             .AgregarBotonEditar(AddressOf Editar)
             .AgregarBotonEliminar(AddressOf Eliminar, False)
-            '.AgregarManejadorFiltro(AddressOf Me.Filtrar)
+            .AgregarManejadorFiltro(AddressOf Me.Filtrar)
         End With
     End Sub
 
-    'Private Sub Filtrar()
-    '    Try
-    '        Me.RellenarDataGrid(Me._Logica.Filtrar(Me.BotoneraFiltrador.GetTextoFiltro))
-    '    Catch ex As Exception
-    '        Alertador.Alertar(ex.Message)
-    '    End Try
-    'End Sub
+    Private Sub Filtrar()
+        Try
+            Me.RellenarDataGrid(Me._Logica.Filtrar(Me.BotoneraFiltrador.GetTextoFiltro))
+        Catch ex As Exception
+            Alertador.Alertar(ex.Message)
+        End Try
+    End Sub
     Private Sub GetObjSeleccionado()
         Me._Obj = Me.DataGridPrincipal.Rows(Me.DataGridPrincipal.SelectedCells(0).RowIndex).DataBoundItem
         If IsNothing(Me._Obj) Then Throw New Exception("No se ha seleccionado ningún Usuario.")

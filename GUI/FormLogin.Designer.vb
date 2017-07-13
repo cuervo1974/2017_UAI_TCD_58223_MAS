@@ -120,8 +120,10 @@ Partial Class FormLogin
         '
         'FormLogin
         '
+        Me.AcceptButton = Me.OK
         Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 16.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
+        Me.CancelButton = Me.Cancel
         Me.ClientSize = New System.Drawing.Size(777, 282)
         Me.Controls.Add(Me.TableLayoutPanel1)
         Me.Controls.Add(Me.PasswordTextBox)

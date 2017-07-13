@@ -26,7 +26,6 @@ Partial Class BotoneraFiltrador
         Me.ButtonLimpiarFiltro = New System.Windows.Forms.ToolStripButton()
         Me.ButtonFiltrar = New System.Windows.Forms.ToolStripButton()
         Me.TextFiltroTexto = New System.Windows.Forms.ToolStripTextBox()
-        Me.ComboFiltroColumnas = New System.Windows.Forms.ToolStripComboBox()
         Me.ToolStripLabelFiltrar = New System.Windows.Forms.ToolStripLabel()
         Me.ToolStrip.SuspendLayout()
         Me.SuspendLayout()
@@ -37,7 +36,7 @@ Partial Class BotoneraFiltrador
         Me.ToolStrip.Font = New System.Drawing.Font("Segoe UI Semibold", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.ToolStrip.GripStyle = System.Windows.Forms.ToolStripGripStyle.Hidden
         Me.ToolStrip.ImageScalingSize = New System.Drawing.Size(20, 20)
-        Me.ToolStrip.Items.AddRange(New System.Windows.Forms.ToolStripItem() {Me.ButtonLimpiarFiltro, Me.ButtonFiltrar, Me.TextFiltroTexto, Me.ComboFiltroColumnas, Me.ToolStripLabelFiltrar})
+        Me.ToolStrip.Items.AddRange(New System.Windows.Forms.ToolStripItem() {Me.ButtonLimpiarFiltro, Me.ButtonFiltrar, Me.TextFiltroTexto, Me.ToolStripLabelFiltrar})
         Me.ToolStrip.Location = New System.Drawing.Point(0, 0)
         Me.ToolStrip.Name = "ToolStrip"
         Me.ToolStrip.Padding = New System.Windows.Forms.Padding(13, 6, 13, 6)
@@ -71,22 +70,14 @@ Partial Class BotoneraFiltrador
         Me.TextFiltroTexto.Name = "TextFiltroTexto"
         Me.TextFiltroTexto.Size = New System.Drawing.Size(199, 46)
         '
-        'ComboFiltroColumnas
-        '
-        Me.ComboFiltroColumnas.Alignment = System.Windows.Forms.ToolStripItemAlignment.Right
-        Me.ComboFiltroColumnas.Margin = New System.Windows.Forms.Padding(0, 0, 10, 0)
-        Me.ComboFiltroColumnas.Name = "ComboFiltroColumnas"
-        Me.ComboFiltroColumnas.Size = New System.Drawing.Size(160, 46)
-        Me.ComboFiltroColumnas.Text = "Columnas"
-        '
         'ToolStripLabelFiltrar
         '
         Me.ToolStripLabelFiltrar.Alignment = System.Windows.Forms.ToolStripItemAlignment.Right
         Me.ToolStripLabelFiltrar.Font = New System.Drawing.Font("Segoe UI", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.ToolStripLabelFiltrar.Margin = New System.Windows.Forms.Padding(0, 0, 10, 0)
         Me.ToolStripLabelFiltrar.Name = "ToolStripLabelFiltrar"
-        Me.ToolStripLabelFiltrar.Size = New System.Drawing.Size(53, 46)
-        Me.ToolStripLabelFiltrar.Text = "Filtrar"
+        Me.ToolStripLabelFiltrar.Size = New System.Drawing.Size(60, 46)
+        Me.ToolStripLabelFiltrar.Text = "Buscar"
         '
         'BotoneraFiltrador
         '
@@ -104,6 +95,5 @@ Partial Class BotoneraFiltrador
     Friend WithEvents ButtonLimpiarFiltro As ToolStripButton
     Friend WithEvents ButtonFiltrar As ToolStripButton
     Friend WithEvents TextFiltroTexto As ToolStripTextBox
-    Friend WithEvents ComboFiltroColumnas As ToolStripComboBox
     Friend WithEvents ToolStripLabelFiltrar As ToolStripLabel
 End Class
