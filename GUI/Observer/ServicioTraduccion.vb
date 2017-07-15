@@ -77,24 +77,24 @@
 
         If pIdiomaViejo.Predeterminado Then
             For Each PalabraTraducida As BE.PALABRATRADUCIDA In pIdiomaNuevo.PalabrasTraducidas
-                If PalabraTraducida.Palabra.Cadena = pTexto Then
+                If PalabraTraducida.Palabra.Cadena.ToUpper.Trim = pTexto.ToUpper.Trim Then
                     pTexto = PalabraTraducida.CadenaTraducida
                 End If
             Next
         ElseIf pIdiomaNuevo.Predeterminado Then
             For Each PalabraTraducida As BE.PALABRATRADUCIDA In pIdiomaViejo.PalabrasTraducidas
-                If PalabraTraducida.CadenaTraducida = pTexto Then
+                If PalabraTraducida.CadenaTraducida.ToUpper.Trim = pTexto.ToUpper.Trim Then
                     pTexto = PalabraTraducida.Palabra.Cadena
                 End If
             Next
         Else
             For Each PalabraTraducida As BE.PALABRATRADUCIDA In pIdiomaViejo.PalabrasTraducidas
-                If PalabraTraducida.CadenaTraducida = pTexto Then
+                If PalabraTraducida.CadenaTraducida.ToUpper.Trim = pTexto.ToUpper.Trim Then
                     pTexto = PalabraTraducida.Palabra.Cadena
                 End If
             Next
             For Each PalabraTraducida As BE.PALABRATRADUCIDA In pIdiomaNuevo.PalabrasTraducidas
-                If PalabraTraducida.Palabra.Cadena = pTexto Then
+                If PalabraTraducida.Palabra.Cadena.ToUpper.Trim = pTexto.ToUpper.Trim Then
                     pTexto = PalabraTraducida.CadenaTraducida
                 End If
             Next

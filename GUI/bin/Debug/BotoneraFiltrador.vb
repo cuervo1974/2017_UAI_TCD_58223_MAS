@@ -82,10 +82,6 @@
     '    _IdiomaObservado.CambiarIdioma(DirectCast(DirectCast(e.ClickedItem, ToolStripMenuItem).Tag, BE.IDIOMA))
     'End Sub
 
-    'Private Sub ToolStrip_ItemClicked(sender As Object, e As ToolStripItemClickedEventArgs) Handles ToolStrip.ItemClicked
-
-    'End Sub
-
     Public Sub AgregarBoton(pLabel As String, pImage As Image, pHandler As EventHandler, Optional pAgrgarSeparador As Boolean = True)
 
         Me.ToolStrip.Items.Add(pLabel, pImage, pHandler).Margin = New Padding(0, 0, 5, 0)
