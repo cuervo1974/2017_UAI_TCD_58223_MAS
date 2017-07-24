@@ -296,9 +296,9 @@
     <Content Include="Resources\Info.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Resources\Lupa.png">
+    <None Include="Resources\Lupa.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    </None>
     <Content Include="Resources\Palabra.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
