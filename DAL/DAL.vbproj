@@ -66,6 +66,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ACCESO.vb" />
+    <Compile Include="DataRowHelper.vb" />
+    <Compile Include="MP_CLIENTE.vb" />
     <Compile Include="MP_EVENTOBITACORA.vb" />
     <Compile Include="MP_FAMILIA.vb" />
     <Compile Include="MP_IDIOMA.vb" />

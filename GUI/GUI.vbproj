@@ -134,6 +134,36 @@
     <Compile Include="Negocio\Bitacora\FormEventosBitacora.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="Negocio\Cliente\FormCliente.Designer.vb">
+      <DependentUpon>FormCliente.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Negocio\Cliente\FormCliente.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Negocio\Cliente\FormClientes.Designer.vb">
+      <DependentUpon>FormClientes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Negocio\Cliente\FormClientes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Negocio\Cliente\FormSeleccionaCliente.Designer.vb">
+      <DependentUpon>FormSeleccionaCliente.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Negocio\Cliente\FormSeleccionaCliente.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Negocio\Soporte\FormTicket.Designer.vb">
+      <DependentUpon>FormTicket.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Negocio\Soporte\FormTicket.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Negocio\Soporte\FormTickets.Designer.vb">
+      <DependentUpon>FormTickets.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Negocio\Soporte\FormTickets.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="Negocio\Familia\FormFamilia.Designer.vb">
       <DependentUpon>FormFamilia.vb</DependentUpon>
     </Compile>
@@ -193,6 +223,18 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Negocio\Bitacora\FormEventosBitacora.resx">
       <DependentUpon>FormEventosBitacora.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Negocio\Cliente\FormCliente.resx">
+      <DependentUpon>FormCliente.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Negocio\Cliente\FormClientes.resx">
+      <DependentUpon>FormClientes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Negocio\Cliente\FormSeleccionaCliente.resx">
+      <DependentUpon>FormSeleccionaCliente.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Negocio\Soporte\FormTicket.resx">
+      <DependentUpon>FormTicket.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Negocio\Familia\FormFamilia.resx">
       <DependentUpon>FormFamilia.vb</DependentUpon>

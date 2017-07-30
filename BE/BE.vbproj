@@ -63,6 +63,7 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CLIENTE.vb" />
     <Compile Include="EVENTOBITACORA.vb" />
     <Compile Include="FAMILIA.vb" />
     <Compile Include="IDIOMA.vb" />

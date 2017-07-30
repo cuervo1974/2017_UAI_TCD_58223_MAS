@@ -64,6 +64,7 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CLIENTE.vb" />
     <Compile Include="EVENTOBITACORA.vb" />
     <Compile Include="FAMILIA.vb" />
     <Compile Include="IDIOMA.vb" />
@@ -84,6 +85,7 @@
     </Compile>
     <Compile Include="PATENTE.vb" />
     <Compile Include="SECTOR.vb" />
+    <Compile Include="ServicioValidacion.vb" />
     <Compile Include="USUARIO.vb" />
   </ItemGroup>
   <ItemGroup>
