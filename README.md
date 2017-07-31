@@ -31,3 +31,32 @@ Cambios formulario Usuarios
 ----------
 Modificacion Multi Idioma
 Modificacion Bitacora
+Modificacion Botonera 
+
+
+13-07-2017
+----------  
+Cambio en Idioma para comparar todo en mayuscula 
+
+
+15-07-2017
+----------
+Agregado de casos de Usuo a la carpeta 
+
+
+
+24-07-2017
+---------- 
+Continuamos completando la carpeta para el recuperatorio de Materia. 
+
+
+26-07-2017
+-----------
+Abregado de casos de uso 
+
+
+30-07-2017
+-----------
+Agregado Forms Tickets, Inventario,y actualización de carpeta 
+Agregado de Form Inventario 
+Agregado de Prototipo form Cliente y clases del mismo 
