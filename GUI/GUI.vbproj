@@ -158,6 +158,12 @@
     <Compile Include="Negocio\Inventario\FormAltaMarca.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="Negocio\Inventario\FormInventario.Designer.vb">
+      <DependentUpon>FormInventario.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Negocio\Inventario\FormInventario.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="Negocio\Inventario\FormInventarioAlta.Designer.vb">
       <DependentUpon>FormInventarioAlta.vb</DependentUpon>
     </Compile>
@@ -257,11 +263,17 @@
     <EmbeddedResource Include="Negocio\Cliente\FormSeleccionaCliente.resx">
       <DependentUpon>FormSeleccionaCliente.vb</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Negocio\Inventario\FormInventario.resx">
+      <DependentUpon>FormInventario.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Negocio\Inventario\FormInventarioAlta.resx">
       <DependentUpon>FormInventarioAlta.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Negocio\Inventario\FormInventarioBaja.resx">
       <DependentUpon>FormInventarioBaja.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Negocio\Inventario\FormInvetarioAltaTipo.resx">
+      <DependentUpon>FormInvetarioAltaTipo.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Negocio\Soporte\FormTicket.resx">
       <DependentUpon>FormTicket.vb</DependentUpon>

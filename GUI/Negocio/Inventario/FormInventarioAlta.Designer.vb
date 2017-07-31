@@ -100,7 +100,7 @@ Partial Class FormInventarioAlta
         Me.Button1.Name = "Button1"
         Me.Button1.Size = New System.Drawing.Size(108, 37)
         Me.Button1.TabIndex = 35
-        Me.Button1.Text = "Guardar"
+        Me.Button1.Text = "Alta"
         Me.Button1.UseVisualStyleBackColor = True
         '
         'Label7
