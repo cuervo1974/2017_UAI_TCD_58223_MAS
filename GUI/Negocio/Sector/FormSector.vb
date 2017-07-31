@@ -1,9 +1,9 @@
-﻿Public Class FormSucursal
+﻿Public Class FormSector
     Implements InterfaceObservador
 
-    Private _Obj As Estructura.Sucursal
+    Private _Obj As BE.Sector
 
-    Sub New(ByRef pObj As Estructura.Sucursal)
+    Sub New(ByRef pObj As BE.Sector)
         InitializeComponent()
         Me._Obj = pObj
     End Sub
