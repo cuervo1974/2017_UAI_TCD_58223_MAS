@@ -95,3 +95,11 @@ C:\Users\Esteban\Documents\GitHub\2017_UAI_TCD_58223_MAS\GUI\bin\Debug\Resources
 C:\Users\Esteban\Documents\GitHub\2017_UAI_TCD_58223_MAS\GUI\bin\Debug\Resources\Persona.png
 C:\Users\Esteban\Documents\GitHub\2017_UAI_TCD_58223_MAS\GUI\bin\Debug\Resources\Personas.png
 C:\Users\Esteban\Documents\GitHub\2017_UAI_TCD_58223_MAS\GUI\bin\Debug\Resources\Seguridad.png
+C:\Users\Esteban\Documents\GitHub\2017_UAI_TCD_58223_MAS\GUI\obj\Debug\GUI.FormCliente.resources
+C:\Users\Esteban\Documents\GitHub\2017_UAI_TCD_58223_MAS\GUI\obj\Debug\GUI.FormClientes.resources
+C:\Users\Esteban\Documents\GitHub\2017_UAI_TCD_58223_MAS\GUI\obj\Debug\GUI.FormSeleccionaCliente.resources
+C:\Users\Esteban\Documents\GitHub\2017_UAI_TCD_58223_MAS\GUI\obj\Debug\GUI.FormInventario.resources
+C:\Users\Esteban\Documents\GitHub\2017_UAI_TCD_58223_MAS\GUI\obj\Debug\GUI.FormInventarioAlta.resources
+C:\Users\Esteban\Documents\GitHub\2017_UAI_TCD_58223_MAS\GUI\obj\Debug\GUI.FormInventarioBaja.resources
+C:\Users\Esteban\Documents\GitHub\2017_UAI_TCD_58223_MAS\GUI\obj\Debug\GUI.FormInvetarioAltaTipo.resources
+C:\Users\Esteban\Documents\GitHub\2017_UAI_TCD_58223_MAS\GUI\obj\Debug\GUI.FormTicket.resources
